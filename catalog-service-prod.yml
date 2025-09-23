@@ -1,3 +1,2 @@
 polar:
-  greeting: "Github Actions rocks! Welcome to the production catalog from a refreshed config server!!!!!!!!!!!!!!"
   catalog-service-uri: "http://localhost:9001"
